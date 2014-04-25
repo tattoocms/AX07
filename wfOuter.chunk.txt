@@ -1,0 +1,5 @@
+<div class="menu">
+    <ul>
+        [+wf.wrapper+]
+    </ul>
+</div>

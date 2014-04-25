@@ -1,0 +1,2 @@
+<strong><a href="[~[+id+]~]" title="[+title+]">[+title+]</a></strong><br />
+[+longtitle+]<br /><br />
